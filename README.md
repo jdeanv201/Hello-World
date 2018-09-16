@@ -1,4 +1,4 @@
 # Hello-World
 Tutorial
 
-I'm Jesse Dean leanin how to use GitHub,
+I'm Jesse Dean learning how to use GitHub,
